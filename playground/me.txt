@@ -1,0 +1,5 @@
+{{#user}}
+Name: MANSI BHATT
+Skills: HTML, CSS, JS, Next.js
+Email: manbhatt4@gmail.com
+{{/user}}
